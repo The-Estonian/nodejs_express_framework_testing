@@ -1,0 +1,19 @@
+{
+  "name": "testing_express",
+  "version": "1.0.0",
+  "description": "Testing node.js express framework",
+  "main": "framework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Estonian/nodejs_express_framework_testing.git"
+  },
+  "author": "The Estonian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/The-Estonian/nodejs_express_framework_testing/issues"
+  },
+  "homepage": "https://github.com/The-Estonian/nodejs_express_framework_testing#readme"
+}
